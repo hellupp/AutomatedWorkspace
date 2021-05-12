@@ -5,6 +5,7 @@ There are several groups of goods (for example: Food, non-food ...).
 In each group of goods there are specific goods (for example: flour, buckwheat ...). 
 Each product has the following properties - name, description, manufacturer, quantity in stock, price per unit.
 The group of goods contains the following properties - name, description.
+
 Realization of:
  1) graphical user interface
  2) Saving data to file / files. There is a file that contains the names of all groups. 
@@ -21,5 +22,7 @@ Realization of:
  	the total cost of goods in the warehouse (quantity * on the price), 
  	the total cost of goods in the group of goods.
   
+  
   Main File: AutomatedWorkspace.java
+  
   Author: Zasukha Dasha
